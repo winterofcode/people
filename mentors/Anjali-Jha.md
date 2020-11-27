@@ -12,4 +12,4 @@ Organisation Name: DSC NSEC
 
 ## Bio
 
-Winter of Code 2020 Mentor for DSC NSEC, Web Developer, Competitive Programmer
+Contributor at Mozilla, Web Developer, Competitive Programmer
