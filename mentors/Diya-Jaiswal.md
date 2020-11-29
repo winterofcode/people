@@ -10,4 +10,4 @@ Organisation Name: [AbsurdNerd](https://github.com/AbsurdNerd)
 
 ## Bio
 
-Backend Developer | Competitive Programmer | Open Source Enthusiast | NWoC'20 Mentor | Mentor @AbsurdNerd | Codechef Chapter Lead
+Backend Developer | Competitive Programmer | Open Source Enthusiast
