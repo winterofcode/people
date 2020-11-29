@@ -11,4 +11,4 @@ Machine Learning Team, DSC NSEC
 - Email: rshrjacharya@gmail.com
 
 ## Bio
-Machine Learning Engineer, Microsoft Student Partner, deeplearning.ai Ambassador and former Facilitator at Stanford University.
+ML Engineer, Microsoft Student Partner, deeplearning.ai Ambassador, former Facilitator at Stanford University.
