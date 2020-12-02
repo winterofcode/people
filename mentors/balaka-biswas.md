@@ -12,4 +12,4 @@ Organisation name: DSC IEM
 
 ## Bio
 
-I am a Data Science enthusiast and a Python Developer. Sometimes, you'll find me lending my hand into developing websites and small web applications. Being a keen Open Source contriutor, this time I'm a Winter of Code 2020 mentor for DSC IEM.
+I am a Data Science enthusiast and a Python Developer. Sometimes, you'll find me lending my hand into developing websites and small web applications. Being a keen Open Source contributor, this time I'm a Winter of Code 2020 mentor for DSC IEM.
