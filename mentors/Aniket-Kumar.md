@@ -1,5 +1,5 @@
 # Name
-Organisation name: Dynopii, DSC-NSEC
+Organisation name: Dynopii, DSC NSEC
 
 ## Social Links
 - GitHub: [ani4aniket](https://github.com/ani4aniket)
@@ -8,5 +8,4 @@ Organisation name: Dynopii, DSC-NSEC
 
 ## Bio
 
-MLH Fellow Season-0 | Software Developer at StockEdge | Contributor at React Native <br/>
-Jack of all trades, Master of None then removing N.
+MLH Fellow Season-0 | Software Developer at StockEdge | Contributor at React Native
