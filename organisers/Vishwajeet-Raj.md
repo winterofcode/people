@@ -1,6 +1,5 @@
 # Vishwajeet Raj
-Lead at DSC NSEC
-
+Web Team Lead at DSC NSEC 
 
 ## Social Links
 - Github: https://github.com/vishwajeetraj11  
@@ -13,5 +12,4 @@ Lead at DSC NSEC
 - Email: vishwajeetraj11@gmail.com
 
 ## Bio
-
-Designer | Developer | Freelancer
+ Designer and Developer | Building vishwajeet.js 
