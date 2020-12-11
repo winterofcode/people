@@ -1,5 +1,5 @@
 # Joydeep Das
-Organisation name: OLX
+Organisation name: DSC NSEC
 
 ## Social Links
 - Github: https://github.com/OverLordAct
