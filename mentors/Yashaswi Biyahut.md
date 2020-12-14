@@ -12,9 +12,9 @@ Organization: Tesseract Coding- Project: NeoAlgos
 
 # Bio
 
-- Contributor at @HakinCodes
-- Mentor at @Sanscript
-- Project Engineer at @Wipro 
+- Contributor at HakinCodes
+- Mentor at Sanscript
+- Project Engineer at Wipro 
 - Competitive Programmer💻
 - Open source enthusiastic.
 
