@@ -7,10 +7,8 @@ TesseractCoding
 - Github: https://github.com/ankitaggarwal23
 - LinkedIn: https://www.linkedin.com/in/aggarwalankit23/
 - Twitter: https://twitter.com/aggarwalankit23
-- Codechef: https://www.codechef.com/users/aggarwalankit
-- Email: ankitaggarwal1274@gmail.com
 
 ## Bio
 
-Competitive Programmer👨‍💻 | Open Source Enthusiast🌍 | ML Enthusiast🖥| GS CUP Winner 🏆| Vice President @Science Club🔬 | Not from IIT, NIT or IIIT
+Winter of Code 2020 Mentor | Competitive Programmer | Open Source and ML Enthusiast | GS CUP Winner @Girlscript | Contributor @Hackincodes, @Facebook Open Source Immersion Program
 
