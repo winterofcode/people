@@ -9,4 +9,4 @@ Organisation name:  <a href="https://github.com/Canvasbird">Canvasbird</a>
 - Twitter: https://twitter.com/GoliSujith
 
 ## Bio
-Creator and Maintainer, CanvasBird | Data Science Intern, @MagnusMonitors | ECE Undergrad, @IIITB | Open Source Contributor.
+Creator and Maintainer, Canvasbird | Data Science Intern, @MagnusMonitors | ECE Undergrad, @IIITB | Open Source Contributor.
